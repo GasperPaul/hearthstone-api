@@ -1,2 +1,2 @@
 # hearthstone-api
-Hearthstoen card search API
+Hearthstone card search API

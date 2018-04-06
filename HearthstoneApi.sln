@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "HearthstoneApi", "HearthstoneApi\HearthstoneApi.fsproj", "{0534446D-6865-461E-9A6A-5AD194665602}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0534446D-6865-461E-9A6A-5AD194665602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0534446D-6865-461E-9A6A-5AD194665602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0534446D-6865-461E-9A6A-5AD194665602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0534446D-6865-461E-9A6A-5AD194665602}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {45B8DE19-B5B0-49E7-94DF-06FE758C1324}
+	EndGlobalSection
+EndGlobal
